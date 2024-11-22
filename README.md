@@ -1,1 +1,4 @@
 # WOA_RA
+WOA.py为WOA在系统传输速率仿真文件
+WOA_efficiency.py为原始的WOA在追求最大网络传输速率时用户的Qos情况
+WOA_imporve_efficiency.py为改进的WOA在追求最大网络传输速率时用户的Qos情况
